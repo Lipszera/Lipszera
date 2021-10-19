@@ -19,6 +19,8 @@
 
 <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?&logo=python&logoColor=white" height="25"/>
 
+<img alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="25"/>
+
 ## 📈  My Statistics
 Top Languages             |  Stats
 :-------------------------:|:-------------------------:
